@@ -1,2 +1,1 @@
-# abap
-SAP ABAP Code Repository
+# SAP ABAP Code Repository
